@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697760154735",
+    "project_id": "water-app-admin-49058",
+    "storage_bucket": "water-app-admin-49058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697760154735:android:b3c58c46106c533811399a",
+        "android_client_info": {
+          "package_name": "com.water_admin.vnz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFgNO6ghSU0Hy8TpUW3X1ldEF97sXkCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

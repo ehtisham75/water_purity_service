@@ -1,0 +1,39 @@
+export const Colors = {
+    PRIMARY_COLOR: '#041833',
+    PRIMARY_BLUE: '#30BBF9',
+    SECONDARY_BLUE: '#cfeefc',
+    SECONDARY_COLOR: '#FFFFFF',
+    TERTIARY_COLOR: '#f2eee1',
+
+    WHITE_BG: '#FFFFFF',
+    BG_LIGHT: '#F0FBFF',
+    BLUE_BG: '#396afc',
+
+    PRIMARY_TEXT_COLOR: '#171716',
+    SECONDARY_TEXT_COLOR: '#aba89f',
+    TERTIARY_TEXT_COLOR: '#f2eee1',
+    BLACK_TEXT_COLOR: '#000000',
+    LIGHTBLACK_TEXT_COLOR: '#4C4C4C',
+    LIGHTGRAY_TEXT_COLOR: '#D4D4D4',
+    WHITE_TEXT_COLOR: '#FFFFFF',
+    RED_TEXT_COLOR: 'red',
+
+    GRAY_BAR: '#98A0AB',
+    BOTTOM_TAB_COLOR: '#041833',
+
+    BLACK: '#000000',
+    WHITE: '#FFFFFF',
+    LIGHT_BLACK: '#4C4C4C',
+    LIGHT_WHITE: "#F2F2F2",
+    GRAY: 'gray',
+    RED: 'red',
+    LIGHT_GRAY: '#e3e5e8',
+    TRANSPARENT: 'transparent',
+    WHITE_HEX_COLOR: '#ffffff40',
+    BLACK_HEX_COLOR: '#00000040',
+    GRAY_HEX_COLOR: '#aba89f40',
+    BLUE_BG_HEX: '#041833',
+    b: "#4A00E0",
+    e: "#a2ab58",
+    PROGRESS_COLOR: "#DA1E28"
+}
